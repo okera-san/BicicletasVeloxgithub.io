@@ -1,8 +1,9 @@
 # Velox
 ## 🅰🗣Nombre de la startup y eslogan:
-La empresa llamada “Velox", se trata de una empresa que realiza venta de bicicletas
+La empresa llamada “Velox", se trata de una empresa que realiza venta de bicicletas.
 ## 🎯🎯Eslogan:“Cada pedalada cuenta”.
-##  ⁉⁉Tema y propósito:Presentación comercial de Velox con catálogo inicial, valor de marca y contacto/ubicaciones. Así mismo destacar promociones, mostrar productos clave y facilitar acceso al carrito e inicio de sesión, priorizando claridad y rapidez de uso.
+##  ⁉⁉Tema y propósito
+El tema del proyecto es la venta de bicicletas llamada "VELOX" enfocandose en distintos ambientes como la ciudd, la aventura y el alto rendimiento, presentando una experiencia accesible y clara que facilita que el usuario elija y compre su bicicleta para su objetivo.
 
 ## 📋✔Cómo se compone
 Se compone de un navegador con dos enlaces a otra página de carrito e inicio de sesión.
@@ -12,26 +13,24 @@ Se compone de un navegador con dos enlaces a otra página de carrito e inicio de
 	Sección Ubicaciones
 	Sección Mision y vision
 	Footer
-Utilizando bootstrap e iconos de bootstrap.
+Utilizando bootstrap y las buenas practicas de HTML.
 
 ## 🎧👥Target Audience 
-Personas interesadas en bicicletas urbanas, de montaña y para niños. Y usuarios móviles primero, que comparan rápidamente por precio/beneficio y buscan tiendas físicas cercanas.
+Velox esta enfoado en las personas fitness, aventureros, principiantes, y personas entusiastas al alto renidimient, este grupo de peronas con sus diferentes necesidades, mensajes que se reflejan en nuestros productos.
 
 ## ✅✅Características
-Diseño responsive con Bootstrap 5 (grid, utilidades, componentes).
-Navbar con colapso móvil, buscador accesible y enlaces a “Carrito” e “Inicio de sesión”.
-Hero con CTA principal único y overlay para contraste AA.
-Tarjetas de productos con imágenes, descripciones breves, precios y CTA coherente.
-Sección de ubicaciones con tarjetas y mapa embebido.
-Sección de misión y visión en cards con jerarquía clara.
-Footer con derechos, redes y contacto.
-División de estilos: Base (identidad y componentes propios) y Overrides (ajustes sobre Bootstrap).
+- Diseño responsivo utilizando Bootstrap 5 (grid, utilidades, componentes).
+- Navbar con colapso móvil, buscador accesible y enlaces a “Carrito” e “Inicio de sesión”.
+- Hero con CTA principal único y overlay para contraste.
+- Tarjetas de productos con imágenes, descripciones breves, precios y CTA coherente.
+- Sección de ubicaciones con tarjetas y mapa interactivo.
+- Sección de misión y visión en cards con jerarquía clara.
+- Footer con derechos, redes y contacto.
 
 ## 🌈🎨Paleta de colores
 Primario: #0d6efd (acciones principales, enlaces y focos).
 Acento: #ffc107 (promos/CTA sobre fondo oscuro; texto en negro para contraste).
-Neutros: escala de grises de Bootstrap para texto y bordes.
-Hero: fondo oscuro personalizado con overlay para legibilidad del texto.
+Neutros: escala de grises de Bootstrap para texto y bordes
 
 ## 🖍🔡Tipografía
 Titulares: “Oswald” para impacto y jerarquía visual.
@@ -46,15 +45,15 @@ Un solo CTA principal en Hero para no dispersar la acción.
 Uso de .stretched-link en títulos de producto para ampliar el objetivo táctil.
 
 ## 🛠🛠Accesibilidad A11y
-Uso de landmarks semánticos (<header>, <nav>, <main>, <section>, <footer>).
-aria-labelledby en secciones con encabezados visibles para nombre accesible.
-Foco visible en enlaces, botones y controles de formularios.
-Contraste mínimo AA (4.5:1 texto normal, 3:1 texto grande/controles).
-alt descriptivo en imágenes de productos y title en iframe del mapa.
+- Uso de landmarks semánticos (<header>, <nav>, <main>, <section>, <footer>).
+- aria-labelledby en secciones con encabezados visibles para nombre accesible.
+- Foco visible en enlaces, botones y controles de formularios.
+- Contraste mínimo AA (4.5:1 texto normal, 3:1 texto grande/controles).
+- alt descriptivo en imágenes de productos y title en iframe del mapa.
 
 ## 🔄📊Funcionamiento del Formulario
 Se utilizo la herramienta Formspree, porque es fácil de integrar, no se necesita JavaScript, y es gratis hasta cierto punto ya que tiene un limite de 50 envíos de formulario al mes.
-Para la implementación de este solo se creo una cuenta en su pagina oficial, luego se crea el formulario y se agrega al HTML.
+Para la implementación de este solo se creo una cuenta en su pagina oficial, luego se crea el formulario y se agrega el link al HTML.
 
 ## Utilización de GitHub Pages
-Github Pages es una herramienta que permite subir una pagina estática a la web, esto se puede activar en la configuración de la pagina. Únicamente la pagina debe de terminar en “.github.io” y funciona.
+Github Pages es una herramienta que permite subir una pagina a la web, esto se puede activar en la configuración de la pagina. Únicamente la pagina debe de terminar en “.github.io” y funcionara sin problemas.
