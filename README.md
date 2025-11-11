@@ -1,4 +1,19 @@
 # Velox
+## Estructura del proyecto
+/
+├─ index.html
+├─ Topics/
+│  ├─ Carrito.html
+│  └─ Inicio_sesion.html
+├─ Css/
+│  ├─ Base/styles-base.css
+│  └─ Overrides/styles-overrides.css
+├─ Assets/
+│  └─ img/
+├─ Js/
+├─ Vendor/
+└─ README.md
+
 ## 🅰🗣Nombre de la startup y eslogan:
 La empresa llamada “Velox", se trata de una empresa que realiza venta de bicicletas.
 ## 🎯🎯Eslogan:“Cada pedalada cuenta”.
